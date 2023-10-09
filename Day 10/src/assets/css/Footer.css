@@ -1,0 +1,15 @@
+.footer {
+    background-color: #82ecef;
+    color: #e11717;
+    padding: 20px;
+    position: fixed;
+    width: 100vw;
+    margin-top: 19%;
+  }
+.footer_container{
+    text-align: left;
+}
+.footer_contents{
+    text-align: right;
+    display: inline;
+}
